@@ -1,4 +1,4 @@
-# This applet is a simple Matrix Calculator
+# This program is a simple Matrix Calculator
 ## How to compile this program?
 1. Clone or download this program in your computer
 2. Enter command "make clean" and then enter "make" in console
