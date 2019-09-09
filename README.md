@@ -1,6 +1,6 @@
 # This program is a simple Matrix Calculator
 ## How to compile?
-1. Clone or download this program in your computer
+1. Clone or download this program to your computer
 2. Enter command "make clean" and then enter "make" in console
 > $ make clean  
 > $ make
